@@ -5,14 +5,16 @@ end
 
 def subtraction(num1, num2)
   difference = num1 - num2
+  difference
 end
 
 def division(num1, num2)
-  quotent
+  quotient = num1 / num2
+  quotient
 end
 
 def multiplication(num1, num2)
-
+  num1 * num2
 end
 
 def modulo(num1, num2)
